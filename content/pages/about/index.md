@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
-![](/img/default-author.jpg)
+![](img_1325.jpeg)
 
-## My Name
+## Bikinibot
 
-mail@example.org
+Pizzaliebhaberin
 
-Here should be some info about me...
+Spongebob Schwammkopf ist meine Lieblingsserie (deshalb der Name)
